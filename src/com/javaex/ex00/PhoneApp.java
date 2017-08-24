@@ -58,7 +58,7 @@ public class PhoneApp {
             }// switch() 종료
             
         }// while 종료
-
+        sc.close();
         // 종료화면
         System.out.println("감사합니다.");
     }
